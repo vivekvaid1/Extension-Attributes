@@ -9,3 +9,4 @@ else
     result="Error"
 fi
 echo "<result>$result</result>"
+#thanks
